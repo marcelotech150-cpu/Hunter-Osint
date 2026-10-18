@@ -1,0 +1,7 @@
+# Credenciales de Telegram API (de https://my.telegram.org)
+API_ID=12345678
+API_HASH=abcdef0123456789abcdef0123456789
+# Sesión del usuario (se crea automáticamente la primera vez)
+SESSION_NAME=osint
+# Token del bot si vas a usar modo bot (opcional)
+BOT_TOKEN=
